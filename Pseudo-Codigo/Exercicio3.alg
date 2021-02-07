@@ -1,8 +1,7 @@
 Algoritmo "Elabore um algoritmo  para Imprimir a tabuada de qualquer número informado. "
 Var
-valor :inteiro
+valor,resultado :inteiro
 i: inteiro
-tabuada:vetor [1..10] de inteiro
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc...
@@ -13,11 +12,9 @@ se valor < 0 entao
 senao
      para i de 1 ate 10 faca
           se valor >= 0 entao
-             tabuada[i] <- (i*valor)
+             resultado<- (i*valor)
+             escreval (valor," x",i," =", resultado)
           fimse
-     fimpara
-     para i de 1 ate 10 faca
-          escreval (valor," x",i," =", tabuada[i])
      fimpara
 fimse
 
