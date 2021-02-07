@@ -1,7 +1,7 @@
 # TesteIterative
 
 <h1 align="center">
-    <img  src="LogoIterative.svg" width="250px" />
+    <img  src=".github/LogoIterative.svg" width="250px" />
 </h1>
 
 <p align="center">  
