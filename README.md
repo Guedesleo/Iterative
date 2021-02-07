@@ -1,10 +1,11 @@
 # TesteIterative
 
 <h1 align="center">
-    <img alt="Iterative" title="Automotive Parts Supplier" src="LogoIterative.svg" width="250px" />
+    <img alt="Iterative" title="Iterative" src="LogoIterative.svg" width="250px" />
 </h1>
 
 <p align="center">  
+ 
  - [Sobre](#sobre)
  - [Tecnologias Utilizadas](#tecnologias-utilizadas)
  - [Exercicios](#exercicios)
