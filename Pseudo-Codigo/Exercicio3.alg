@@ -1,0 +1,25 @@
+Algoritmo "Elabore um algoritmo  para Imprimir a tabuada de qualquer número informado. "
+Var
+valor :inteiro
+i: inteiro
+tabuada:vetor [1..10] de inteiro
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc...
+escreva("Digite um numero:")
+leia(valor)
+se valor < 0 entao
+   escreval("Digite um numero maior que 0.")
+senao
+     para i de 1 ate 10 faca
+          se valor >= 0 entao
+             tabuada[i] <- (i*valor)
+          fimse
+     fimpara
+     para i de 1 ate 10 faca
+          escreval (valor," x",i," =", tabuada[i])
+     fimpara
+fimse
+
+
+Fimalgoritmo

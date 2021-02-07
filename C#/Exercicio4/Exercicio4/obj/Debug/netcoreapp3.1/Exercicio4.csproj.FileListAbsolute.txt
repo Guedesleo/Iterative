@@ -1,0 +1,12 @@
+D:\_projetos\TesteConectcar\C#\Exercicio4\Exercicio4\bin\Debug\netcoreapp3.1\Exercicio4.exe
+D:\_projetos\TesteConectcar\C#\Exercicio4\Exercicio4\bin\Debug\netcoreapp3.1\Exercicio4.deps.json
+D:\_projetos\TesteConectcar\C#\Exercicio4\Exercicio4\bin\Debug\netcoreapp3.1\Exercicio4.runtimeconfig.json
+D:\_projetos\TesteConectcar\C#\Exercicio4\Exercicio4\bin\Debug\netcoreapp3.1\Exercicio4.runtimeconfig.dev.json
+D:\_projetos\TesteConectcar\C#\Exercicio4\Exercicio4\bin\Debug\netcoreapp3.1\Exercicio4.dll
+D:\_projetos\TesteConectcar\C#\Exercicio4\Exercicio4\bin\Debug\netcoreapp3.1\Exercicio4.pdb
+D:\_projetos\TesteConectcar\C#\Exercicio4\Exercicio4\obj\Debug\netcoreapp3.1\Exercicio4.AssemblyInfoInputs.cache
+D:\_projetos\TesteConectcar\C#\Exercicio4\Exercicio4\obj\Debug\netcoreapp3.1\Exercicio4.AssemblyInfo.cs
+D:\_projetos\TesteConectcar\C#\Exercicio4\Exercicio4\obj\Debug\netcoreapp3.1\Exercicio4.csproj.CoreCompileInputs.cache
+D:\_projetos\TesteConectcar\C#\Exercicio4\Exercicio4\obj\Debug\netcoreapp3.1\Exercicio4.dll
+D:\_projetos\TesteConectcar\C#\Exercicio4\Exercicio4\obj\Debug\netcoreapp3.1\Exercicio4.pdb
+D:\_projetos\TesteConectcar\C#\Exercicio4\Exercicio4\obj\Debug\netcoreapp3.1\Exercicio4.genruntimeconfig.cache
