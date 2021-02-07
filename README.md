@@ -1,18 +1,20 @@
 # TesteIterative
 
 <h1 align="center">
-    <img alt="Iterative" title="Automotive Parts Supplier" src="LogoIterative.JPG" width="250px" />
+    <img alt="Iterative" title="Automotive Parts Supplier" src="LogoIterative.svg" width="250px" />
 </h1>
 
 <p align="center">  
  - [Sobre](#sobre)
  - [Tecnologias Utilizadas](#tecnologias-utilizadas)
  - [Exercicios](#exercicios)
+
+ <a href="#memo-licença">Licença</a>
  </p>
 
  ## 💻 Projeto
 <a id="sobre"></a>
-## :bookmark: Sobre
+## :rocket: Sobre
     Realização do testeIterative para vaga de .Net.Core,foi pedido para realização do teste em pseudoCódigo, mas acabei realizando os teste para as tecnologia que tenho tenho um conhecimento que são Node.js e C#.
 
 ## :rocket: Tecnologias Utilizadas
