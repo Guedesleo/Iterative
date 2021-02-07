@@ -1,7 +1,7 @@
 # TesteIterative
 
 <h1 align="center">
-    <img alt="Iterative" title="Automotive Parts Supplier" src="LogoIterative.PNG" width="250px" />
+    <img alt="Iterative" title="Automotive Parts Supplier" src="LogoIterative.JPG" width="250px" />
 </h1>
 
 <p align="center">  
