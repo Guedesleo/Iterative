@@ -14,12 +14,12 @@
  </p>
 
  ## 💻 Projeto
-<a id="sobre"></a>
 ## :rocket: Sobre
-    Realização do testeIterative para vaga de .Net.Core,foi pedido para realização do teste em pseudoCódigo, mas acabei realizando os teste para as tecnologia que tenho tenho um conhecimento que são Node.js e C#.
+        Realização do testeIterative, foi realização do teste em pseudoCódigo, e nas tecnologia que conhecimento que são Node.js e C#.
+
 
 ## :rocket: Tecnologias Utilizadas
-Esse projeto foi desenvolvido com as seguintes tecnologias:]
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Node](https://nodejs.org/en/)
 - [C#](https://www.learncs.org/)
 - [VisualAlg]
@@ -40,12 +40,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:]
 
 5) Realize um algoritmo que ordene em ordem crescente um vetor “ZX” de 100.
 
-6) Explique o que são pilhas e filas? 
-
-7) Defina os conceitos da Orientação Objeto: Herança, Polimorfismo e Encapsulamento.
-
-8) Qual a diferença de Classe e Objeto? 
 
 <h4 align="center">
-    Feito com 💜 by <a href="https://www.linkedin.com/in/leonardo-guedes-95a016108/" target="_blank">Leonardo Guedes</a>
+    Feito por <a href="https://www.linkedin.com/in/leonardo-guedes-95a016108/" target="_blank">Leonardo Guedes</a>
 </h4>
