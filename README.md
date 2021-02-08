@@ -15,7 +15,7 @@
 
  ## 💻 Projeto
 ## :rocket: Sobre
-        Realização do testeIterative, foi realização do teste em pseudoCódigo, e nas tecnologia que conhecimento que são Node.js e C#.
+        Realização do testeIterative, foi realização do teste em pseudoCódigo, e nas tecnologia que tenho conhecimento que são Node.js e C#.
 
 
 ## :rocket: Tecnologias Utilizadas
