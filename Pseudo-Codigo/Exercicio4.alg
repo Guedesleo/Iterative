@@ -8,7 +8,7 @@ Algoritmo "Exercicio4"
 //- Verificar se é Par ou Impar.
 //- Calcular o número ao cubo
 
-procedimento fatorial(i,numero,fat:inteiro)
+procedimento fatorial(numero,fat:inteiro)
 inicio
       fat<-1
       para i de 1 ate numero faca
@@ -17,7 +17,7 @@ inicio
       escreval("O Valor do fatorial que você digitou e:",fat)
 fimprocedimento
 
-procedimento verificarPrimo(i,numero,cont:inteiro)
+procedimento verificarPrimo(numero,cont:inteiro)
 inicio
        para i de 1 ate numero faca
        se numero mod  i = 0 entao
