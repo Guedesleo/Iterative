@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_projetos\\TesteConectcar\\C#\\Exercicio4\\Exercicio5\\Exercicio5.csproj",
+      "projectUniqueName": "D:\\_projetos\\TesteIterative\\C#\\Exercicio\\Exercicio5\\Exercicio5.csproj",
       "projectName": "Exercicio5",
-      "projectPath": "D:\\_projetos\\TesteConectcar\\C#\\Exercicio4\\Exercicio5\\Exercicio5.csproj",
+      "projectPath": "D:\\_projetos\\TesteIterative\\C#\\Exercicio\\Exercicio5\\Exercicio5.csproj",
       "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
-      "outputPath": "D:\\_projetos\\TesteConectcar\\C#\\Exercicio4\\Exercicio5\\obj\\",
+      "outputPath": "D:\\_projetos\\TesteIterative\\C#\\Exercicio\\Exercicio5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leona\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\_projetos\\TesteConectcar\\C#\\Exercicio4\\Exercicio4\\Exercicio4.csproj": {}
+    "D:\\_projetos\\TesteIterative\\C#\\Exercicio\\Exercicio4\\Exercicio4.csproj": {}
   },
   "projects": {
-    "D:\\_projetos\\TesteConectcar\\C#\\Exercicio4\\Exercicio4\\Exercicio4.csproj": {
+    "D:\\_projetos\\TesteIterative\\C#\\Exercicio\\Exercicio4\\Exercicio4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_projetos\\TesteConectcar\\C#\\Exercicio4\\Exercicio4\\Exercicio4.csproj",
+        "projectUniqueName": "D:\\_projetos\\TesteIterative\\C#\\Exercicio\\Exercicio4\\Exercicio4.csproj",
         "projectName": "Exercicio4",
-        "projectPath": "D:\\_projetos\\TesteConectcar\\C#\\Exercicio4\\Exercicio4\\Exercicio4.csproj",
+        "projectPath": "D:\\_projetos\\TesteIterative\\C#\\Exercicio\\Exercicio4\\Exercicio4.csproj",
         "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
-        "outputPath": "D:\\_projetos\\TesteConectcar\\C#\\Exercicio4\\Exercicio4\\obj\\",
+        "outputPath": "D:\\_projetos\\TesteIterative\\C#\\Exercicio\\Exercicio4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leona\\AppData\\Roaming\\NuGet\\NuGet.Config",
